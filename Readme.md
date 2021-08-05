@@ -1,20 +1,20 @@
 
 # Table of Index
 -------------------------------
-#### [Linux]()
+#### [Linux](https://github.com/praneshnanoskar/missingskill-learning/blob/master/linux.md)
 * Linux Background
 * What is linux
 * Linux distribution
 * Linux commands 
 * Linux File system 
 
-#### [Git]()
+#### [Git](https://github.com/praneshnanoskar/missingskill-learning/blob/master/git.md)
 * What is Git
 * Version control system types
 * Git commands
 
 
-#### [Basic building blocks and web application development]()
+#### [Basic building blocks and web application development](https://github.com/praneshnanoskar/missingskill-learning/blob/master/web.md)
 * Programming Language
 * IP Addresses
 * Port 
@@ -31,7 +31,7 @@
 * Git development workflow
 
 
-#### [JavaScript](https://github.com/praneshnanoskar/check/blob/master/Javscript.md)
+#### [JavaScript](https://github.com/praneshnanoskar/missingskill-learning/blob/master/Javascript.md)
 
 * History of JavaScript
 * Control Structure
